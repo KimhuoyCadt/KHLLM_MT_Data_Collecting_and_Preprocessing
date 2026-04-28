@@ -1,4 +1,4 @@
-# MT Dataset Cleaning Pipeline
+# MT Dataset Cleaning and Structure Pipline
 
 This project cleans and chunks Machine Translation datasets from `.jsonl` files for training preparation.
 
