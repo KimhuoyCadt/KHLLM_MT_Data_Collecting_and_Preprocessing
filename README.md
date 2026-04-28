@@ -42,8 +42,15 @@ cadt_mt_dataset/
 
 34 directories
 
-
 ```
+
+### Note
+* Category12:
+    * Origin: mfaic_pair.jsonl
+    * Website: https://kiripost.com/
+* Category13:
+    * Origin: kripost_parallel_articles.jsonl
+    * Website: https://www.mfaic.gov.kh
 
 ## Features
 
@@ -76,6 +83,25 @@ Generated files will be in:
 structure_mt_dataset/
 ```
 
+## Output Structure
+```base
+structure_mt_dataset/
+├── category10.jsonl
+├── category11.jsonl
+├── category12.jsonl
+├── category13.jsonl
+├── category1.jsonl
+├── category2.jsonl
+├── category3.jsonl
+├── category4.jsonl
+├── category5.jsonl
+├── category6.jsonl
+├── category7.jsonl
+├── category8.jsonl
+└── category9.jsonl
+├── kiripost_parallel_articles.jsonl
+└── mfaic_pair.jsonl
+```
 Example:
 
 ```bash
