@@ -1,0 +1,8 @@
+{
+  "input_file": "category9.jsonl",
+  "chunks_created": 249,
+  "total_records": 2665835,
+  "kept_pairs": 2480624,
+  "filtered_out": 185211,
+  "keep_ratio": 0.930524207237132
+}
